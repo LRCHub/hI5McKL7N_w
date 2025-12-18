@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ガラスの夜に",
+  "base_artist": "YUGUREMI",
+  "createdAt": "2025-12-18T10:14:23.281443Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガラスの夜に",
+      "artist": "YUGUREMI",
+      "has_synced": false,
+      "path": "select/pl_01_ガラスの夜に_YUGUREMI.txt"
+    }
+  ]
+}
